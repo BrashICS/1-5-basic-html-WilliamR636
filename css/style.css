@@ -1,0 +1,18 @@
+
+
+
+p{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: skyblue;
+}
+
+
+body {
+    background-image: url("../Images/snowflake_image.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color : powderblue;
+}
