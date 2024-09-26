@@ -8,11 +8,25 @@ p{
     color: skyblue;
 }
 
+#First1{
+    text-align: center;
+    margin-top: 7.5%;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: skyblue;
+}
+
 
 body {
-    background-image: url("../Images/snowflake_image.jpg");
+    background-image: linear-gradient(powderblue, darkblue, darkblue, darkblue, darkblue, darkblue, darkblue);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
-    background-color : powderblue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }
